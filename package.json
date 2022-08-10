@@ -1,0 +1,36 @@
+{
+  "name": "solid-project",
+  "type": "module",
+  "scripts": {
+    "dev": "solid-start dev",
+    "build": "solid-start build",
+    "start": "solid-start start",
+    "test": "vitest",
+    "test:ui": "vitest --ui"
+  },
+  "devDependencies": {
+    "@solidjs/meta": "^0.28.0",
+    "@solidjs/router": "^0.4.2",
+    "@unocss/core": "^0.45.5",
+    "@unocss/reset": "^0.45.5",
+    "@unocss/vite": "^0.45.5",
+    "@vitest/ui": "^0.21.1",
+    "jsdom": "^20.0.0",
+    "prettier": "^2.7.1",
+    "solid-js": "^1.4.8",
+    "solid-start": "0.1.0-alpha.99",
+    "solid-start-node": "0.1.0-alpha.99",
+    "solid-testing-library": "^0.3.0",
+    "typescript": "^4.7.4",
+    "undici": "^5.8.2",
+    "vite": "^3.0.5",
+    "vitest": "^0.21.1"
+  },
+  "prettier": {
+    "printWidth": 80,
+    "semi": false,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "none"
+  }
+}

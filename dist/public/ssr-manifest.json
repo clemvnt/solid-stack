@@ -1,0 +1,30 @@
+{
+  "node_modules/.pnpm/solid-js@1.4.8/node_modules/solid-js/dist/solid.js": [],
+  "node_modules/.pnpm/solid-js@1.4.8/node_modules/solid-js/web/dist/web.js": [],
+  "\u0000vite/preload-helper": [],
+  "node_modules/.pnpm/solid-start@0.1.0-alpha.99_mavcxrvq3azfi4waexjqqqve4e/node_modules/solid-start/entry-client/mount.tsx": [],
+  "node_modules/.pnpm/@solidjs+meta@0.28.0_solid-js@1.4.8/node_modules/@solidjs/meta/dist/index.jsx": [],
+  "node_modules/.pnpm/@solidjs+router@0.4.2_solid-js@1.4.8/node_modules/@solidjs/router/dist/integration.js": [],
+  "node_modules/.pnpm/@solidjs+router@0.4.2_solid-js@1.4.8/node_modules/@solidjs/router/dist/utils.js": [],
+  "node_modules/.pnpm/@solidjs+router@0.4.2_solid-js@1.4.8/node_modules/@solidjs/router/dist/routing.js": [],
+  "node_modules/.pnpm/@solidjs+router@0.4.2_solid-js@1.4.8/node_modules/@solidjs/router/dist/components.jsx": [],
+  "node_modules/.pnpm/solid-start@0.1.0-alpha.99_mavcxrvq3azfi4waexjqqqve4e/node_modules/solid-start/server/ServerContext.tsx": [],
+  "node_modules/.pnpm/solid-start@0.1.0-alpha.99_mavcxrvq3azfi4waexjqqqve4e/node_modules/solid-start/server/types.tsx": [],
+  "node_modules/.pnpm/solid-start@0.1.0-alpha.99_mavcxrvq3azfi4waexjqqqve4e/node_modules/solid-start/error-boundary/ErrorBoundary.tsx": [],
+  "node_modules/.pnpm/solid-start@0.1.0-alpha.99_mavcxrvq3azfi4waexjqqqve4e/node_modules/solid-start/root/FileRoutes.tsx": [],
+  "node_modules/.pnpm/solid-start@0.1.0-alpha.99_mavcxrvq3azfi4waexjqqqve4e/node_modules/solid-start/root/Scripts.tsx": [],
+  "node_modules/.pnpm/solid-start@0.1.0-alpha.99_mavcxrvq3azfi4waexjqqqve4e/node_modules/solid-start/root/Document.tsx": [],
+  "node_modules/.pnpm/solid-start@0.1.0-alpha.99_mavcxrvq3azfi4waexjqqqve4e/node_modules/solid-start/index.tsx": [],
+  "../../__uno.css": [],
+  "node_modules/.pnpm/@unocss+reset@0.45.5/node_modules/@unocss/reset/tailwind.css": [],
+  "src/root.tsx": [],
+  "node_modules/.pnpm/solid-start@0.1.0-alpha.99_mavcxrvq3azfi4waexjqqqve4e/node_modules/solid-start/entry-client/StartClient.tsx": [],
+  "src/entry-client.tsx": [],
+  "assets/entry-client.066179f0.js-unocss-hash.css": [],
+  "src/components/Counter.tsx": [
+    "/assets/index.72900442.js"
+  ],
+  "src/routes/index.tsx": [
+    "/assets/index.72900442.js"
+  ]
+}
