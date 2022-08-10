@@ -7,6 +7,6 @@
     "moduleResolution": "node",
     "jsxImportSource": "solid-js",
     "jsx": "preserve",
-    "types": ["vite/client", "vitest"]
+    "types": ["vite/client"]
   }
 }
